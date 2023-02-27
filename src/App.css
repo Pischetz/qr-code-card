@@ -42,12 +42,12 @@ h5{
   font-size: 15px;
   font-weight: 400;
   margin: 0;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 
 h1{
   color: hsl(218, 44%, 22%);
-  font-size: 20px;
+  font-size: 21px;
   font-weight: 700;
   margin-top: 5px;
 }
